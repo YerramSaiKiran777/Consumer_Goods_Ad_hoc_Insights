@@ -36,3 +36,8 @@ Applied the sql concepts like aggregations, group by, window functions, subqueri
 Imported the results into PowerBI to create visual representation of the results.
 
 Utilized PowerPoint to present my insights on the given requests.
+
+
+My Insights:
+-----------
+A **PDF** is attached to this repository that contains the ad-hoc requests, its results obtained using SQL and the visualizations that were created using Power BI and finally my interpretations from the results.
