@@ -22,8 +22,8 @@ Task given:
 ----------
 Tools used:
 ----------
-MySql
-Power BI
+MySql,
+Power BI,
 Microsoft PowerPoint
 
 -----------
